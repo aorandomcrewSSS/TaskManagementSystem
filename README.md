@@ -30,7 +30,8 @@ Task Management System
 
 Скопируйте jwt-токен и вставьте его в authorize в swagger-ui
 
-<img width="239" alt="image" src="https://github.com/user-attachments/assets/bf2176e7-de7a-4831-8f3b-c086500bcc52">
+![image](https://github.com/user-attachments/assets/0fc19bc4-f904-4fe2-a890-547510d0d521)
+
 
 После этого вам будут доступны end-поинты для работы с системой. 
 
